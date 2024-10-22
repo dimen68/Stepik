@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ee1bf455-8db7-4559-964e-a77f8e1b1fcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Task4_4_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_4_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_4_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,20 +28,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dimen68"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dimen68/Stepik.git",
+    "accountId": "ef49e8e4-6237-4649-96eb-b70e0b578dcb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2nkoJJgzywoUYgK409sM0lRfFdn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Task4_4.executor": "Run",
+    "Python.Task4_4_12.executor": "Run",
+    "Python.Task4_4_13.executor": "Run",
+    "Python.Task4_4_14.executor": "Run",
+    "Python.Task4_4_3.executor": "Run",
+    "Python.Task4_4_5.executor": "Run",
+    "Python.Task4_4_9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -76,6 +123,10 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Task4_4_9.py</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
