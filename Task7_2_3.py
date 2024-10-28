@@ -8,7 +8,7 @@ class RedButton:
         self.count_ = 0
 
     def click(self):
-        self.count_ +=1
+        self.count_ += 1
         return print('Тревога!')
 
     def count(self):
